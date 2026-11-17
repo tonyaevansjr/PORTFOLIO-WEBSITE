@@ -37,12 +37,12 @@ window.PROFILE = {
   // "lane", "tools" and "result" are optional. Delete a line you have nothing real for.
   projects: [
     {
-      name: "[Lab Title]",
+      name: "[Information Security Fundamentals]",
       lane: "",
       summary: "[One or two sentences: what you built or wrote, and what it covers.]",
       tools: ["[Tool(s) you used]"],
       files: [
-        { label: "[Lab Report]", url: "https://[your-google-drive-or-onedrive-link]" }
+        { label: "[Lab Report]", url: "https://[https://studentschattahoocheetech-my.sharepoint.com/:f:/g/personal/tony_evans_chattahoocheetech_edu/IgD4I3xe2809ToqRmLtXgqnWAYNUYomZ8HVKhuB1nJbBDBA?e=HvvzGP]" }
       ]
     }
   ],
